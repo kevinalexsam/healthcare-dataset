@@ -83,4 +83,4 @@ The dataset is a synthetic healthcare dataset designed for data analysis and vis
 
 ## 📸 Dashboard Preview
 
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](screenshots/overview.png)
