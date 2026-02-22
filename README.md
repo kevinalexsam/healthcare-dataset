@@ -1,4 +1,4 @@
-# Healthcare Analytics Dashboard — Power BI Project
+# Healthcare Analytics Dashboard - Power BI Project
 
 🔗 **Dataset Source:**  
 Healthcare Datasets Sample (Kaggle)  
